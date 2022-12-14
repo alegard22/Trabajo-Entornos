@@ -6,3 +6,6 @@
 Array, Ordenar un Array de menor a mayor (Alex, Luis)
 Numero, Calcular el factorial (Pablo), Dado un número en segundos, devolver horas y minutos (3680segundos son 1 hora, 1 min, y 20 segundos) (Marcos)
 String, Devolver el número de ocurrencias de una letra
+
+
+he jaqueado el sistema jai
